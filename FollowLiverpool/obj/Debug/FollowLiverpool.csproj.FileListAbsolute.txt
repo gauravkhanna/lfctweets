@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\Bin\Debug\ApplicationIcon.png
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\Bin\Debug\FollowLiverpool.dll
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\Bin\Debug\FollowLiverpool.pdb
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\Bin\Debug\AppManifest.xaml
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\Bin\Debug\FollowLiverpool.xap
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\obj\Debug\App.g.i.cs
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\obj\Debug\MainPage.g.i.cs
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\obj\Debug\FollowLiverpool.g.resources
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\obj\Debug\FollowLiverpool.dll
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\obj\Debug\FollowLiverpool.pdb
+c:\users\hp\documents\visual studio 2010\Projects\FollowLiverpool\FollowLiverpool\obj\Debug\XapCacheFile.xml
